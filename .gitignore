@@ -1,6 +1,8 @@
 ## Products (published by CI)
 DMTN-107.pdf
-
+meta.tex
+authors.tex
+acronyms.tex
 one.*
 ## Core latex/pdflatex auxiliary files:
 *.aux
@@ -14,7 +16,7 @@ one.*
 *.fot
 *.cb
 *.cb2
-
+*.xdv
 
 ## Intermediate documents:
 *.dvi
